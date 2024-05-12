@@ -1,0 +1,4 @@
+echo $VIRTUAL_ENV
+
+mv backend.py backend/  => This command use some file swap to defined file directory
+ls -R => List all child files and folder start from the root directory
